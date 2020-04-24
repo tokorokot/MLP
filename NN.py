@@ -378,7 +378,7 @@ class NNet:
         
     
             
-    
+#для standalone тестов    
 if __name__=='__main__':
         
 
